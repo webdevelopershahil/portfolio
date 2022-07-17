@@ -552,6 +552,9 @@ textarea{
 	
 }
 @media all and (max-width: 768px){
+	.tryangles{
+		display: none;
+	}
 	.main-menu .menu-area ul{
 		width:100%;
 		display:non;
